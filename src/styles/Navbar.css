@@ -1,0 +1,21 @@
+.Navbar {
+    color: #333;
+    padding: 10px;
+    margin-right: 10px;
+}
+.navbar-links {
+  display: flex;  
+  justify-content: flex-end; 
+  gap: 20px; 
+  list-style: none;
+  padding: 0;
+}
+.navbar-links a {
+  text-decoration: none;
+  color:#333;
+  font-size: 18px;
+  transition: color 0.3s ease;
+}
+
+
+  
