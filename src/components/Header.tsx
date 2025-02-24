@@ -8,9 +8,9 @@ const Header:React.FC= ()=>{
       <h1 className="title">
         Movie Tracker
       </h1>
-      
+      <div>
         <Navbar/>
-      
+      </div>
       
       
     </div>

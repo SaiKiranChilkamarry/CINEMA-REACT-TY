@@ -1,6 +1,7 @@
 /// <reference types="vite/client" />
+
 interface ImportMetaEnv {
-  VITE_API_KEY: string;  // This will be your custom environment variable
+  VITE_API_KEY: string;  
 }
 
 interface ImportMeta {
